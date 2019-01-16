@@ -6,7 +6,7 @@ email: not@ready
 description: "No Need To Be Ready."
 keyword: "Ready Blog"
 url: "https://mumumi.github.io/Jekyll"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/Jekyll"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/mumumi/Jekyll.git" # you code repository
 
 # Sidebar settings
